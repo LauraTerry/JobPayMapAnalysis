@@ -33,13 +33,11 @@ This project aims to visualize the states where various jobs are most lucrative 
 
 1. Averaged the cost of living by state using data for a single person with no children.
 Combined city and county information to derive a state average.
-Job Income Analysis:
 
-2. Identified 22 common vocational categories from the Job Income dataset.
+2. Job Income Analysis: Identified 22 common vocational categories from the Job Income dataset.
 Calculated the average income for each vocation by state.
-Data Integration:
 
-3. Merged the two datasets to create a comprehensive list that includes the average cost of living by state, the average income by vocation in each state, and the net difference, termed as "Residual Income."
+3. Data Integration: Merged the two datasets to create a comprehensive list that includes the average cost of living by state, the average income by vocation in each state, and the net difference, termed as "Residual Income."
 
 4. Visualization: Created a choropleth map in Tableau to illustrate the Residual Income by state.
 Used a red-gold-green color scale, where green indicates the highest residual income.
@@ -49,3 +47,4 @@ Used a red-gold-green color scale, where green indicates the highest residual in
 Job data sources: https://www.bls.gov/oes/special-requests/oesm23nat.zip
 
 Cost of living data source: https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties
+
