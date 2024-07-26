@@ -1,4 +1,4 @@
-# Job Income By State (JIBS) Analysis
+# Job Income By State Analysis
 
 2023 Cost of Living and Job Data Analysis
 Affordability Insights for Individuals Across U.S. States
@@ -15,7 +15,7 @@ The project aims to address the rapidly increasing cost of living and highlight 
 1. Clone the repo to your machine.
 2. Create a virtual environment and install the packages listed in the 
 `requirements.txt` file (instructions below).
-3. Open and run "JIBSmap.py" by typing "python JIBSmap.py"
+3. Open and run "JobPayMap.py" by typing "python JobPayMap.py"
 4. OR Select your job category and view results on Tableau public [here](https://public.tableau.com/app/profile/laura.terry3599/viz/JobAnalysis_17219947461810/Dashboard1?publish=yes)
 
 ### Virtual Environment Commands
@@ -37,7 +37,7 @@ Combined city and county information to derive a state average.
 2. Job Income Analysis: Identified 22 common vocational categories from the Job Income dataset.
 Calculated the average income for each vocation by state.
 
-3. Data Integration: Merged the two datasets to create a comprehensive list that includes the average cost of living by state, the average income by vocation in each state, and the net difference, termed as "Residual Income."
+3. Data Integration: Merged the two datasets to create a comprehensive list that includes the average cost of living by state, the average income by vocation in each state, and the net difference, termed as "Residual Income". This is NOT disposable income by any means, only showing how much money on average was leftover yearly after the average cost of living for each state.
 
 4. Visualization: Created a choropleth map in Tableau to illustrate the Residual Income by state.
 Used a red-gold-green color scale, where green indicates the highest residual income.
