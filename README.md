@@ -15,7 +15,7 @@ The project aims to address the rapidly increasing cost of living and highlight 
 1. Clone the repo to your machine.
 2. Create a virtual environment and install the packages listed in the 
 `requirements.txt` file (instructions below).
-3. Open and run "JIBS.py" by typing python JIBS.py
+3. Open and run "JIBSmap.py" by typing "python JIBSmap.py"
 4. OR Select your job category and view results on Tableau public [here](https://public.tableau.com/app/profile/laura.terry3599/viz/JobAnalysis_17219947461810/Dashboard1?publish=yes)
 
 ### Virtual Environment Commands
