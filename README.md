@@ -1,11 +1,12 @@
-# JIBS_analysis
+# Job Income By State (JIBS) Analysis
 
 2023 Cost of Living and Job Data Analysis
 Affordability Insights for Individuals Across U.S. States
 
-
 ## Overview
 This project focuses on the cost of living across U.S. states, emphasizing job data for individuals. It provides insights into affordability by comparing the general income levels of various jobs within each state against the average cost of living.
+
+The goal of this project is to help individuals identify which states offer the best financial rewards for their skills and vocations, thereby aiding them in making informed decisions about where to live and work.
 
 The project aims to address the rapidly increasing cost of living and highlight the proportionality of job incomes to living costs. Results will be visualized in a heat map of the United States, showcasing which areas or states offer better affordability for individuals.
 
@@ -25,3 +26,26 @@ The project aims to address the rapidly increasing cost of living and highlight 
 | Install    | `pip install -r requirements.txt`  | `pip install -r requirements.txt` |
 | Deactivate | `deactivate`                       | `deactivate`                      |
 
+## Data Interpretation and Goals
+This project aims to visualize the states where various jobs are most lucrative by creating a heatmap. The data was collected from two sources: the 2023 Cost of Living dataset and the 2023 Job Income data from the Bureau of Labor Statistics.
+
+### Cost of Living Analysis:
+
+1. Averaged the cost of living by state using data for a single person with no children.
+Combined city and county information to derive a state average.
+Job Income Analysis:
+
+2. Identified 22 common vocational categories from the Job Income dataset.
+Calculated the average income for each vocation by state.
+Data Integration:
+
+3. Merged the two datasets to create a comprehensive list that includes the average cost of living by state, the average income by vocation in each state, and the net difference, termed as "Residual Income."
+
+4. Visualization: Created a choropleth map in Tableau to illustrate the Residual Income by state.
+Used a red-gold-green color scale, where green indicates the highest residual income.
+
+
+## Data Sources:
+Job data sources: https://www.bls.gov/oes/special-requests/oesm23nat.zip
+
+Cost of living data source: https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties
