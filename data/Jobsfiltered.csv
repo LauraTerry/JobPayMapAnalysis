@@ -1,0 +1,1101 @@
+state,Job Type,avg_income
+ALABAMA,Arts and Media,47961
+ALABAMA,Business and Financial,63350
+ALABAMA,Construction,49776
+ALABAMA,Education,47114
+ALABAMA,Engineering,87363
+ALABAMA,Farming and Forestry,37611
+ALABAMA,Food Service,27461
+ALABAMA,Healthcare Practitioners,55563
+ALABAMA,Healthcare Support,32447
+ALABAMA,Installation and Repair,51649
+ALABAMA,Legal Occupations,84480
+ALABAMA,Maintenance and Cleaning,31081
+ALABAMA,Management,100643
+ALABAMA,Office and Administrative,37908
+ALABAMA,Personal Care and Service,28638
+ALABAMA,Production Occupations,42994
+ALABAMA,Protective Services,38013
+ALABAMA,Sales,52012
+ALABAMA,Scientific Research,66895
+ALABAMA,Social Services,46748
+ALABAMA,Technology and Mathematics,77646
+ALABAMA,Transportation and Moving,38476
+ALASKA,Arts and Media,54376
+ALASKA,Business and Financial,77732
+ALASKA,Construction,71167
+ALASKA,Education,63360
+ALASKA,Engineering,98655
+ALASKA,Farming and Forestry,45046
+ALASKA,Food Service,37914
+ALASKA,Healthcare Practitioners,74456
+ALASKA,Healthcare Support,47329
+ALASKA,Installation and Repair,66916
+ALASKA,Legal Occupations,112598
+ALASKA,Maintenance and Cleaning,39473
+ALASKA,Management,106418
+ALASKA,Office and Administrative,48349
+ALASKA,Personal Care and Service,39554
+ALASKA,Production Occupations,59197
+ALASKA,Protective Services,49769
+ALASKA,Sales,50620
+ALASKA,Scientific Research,85885
+ALASKA,Social Services,56648
+ALASKA,Technology and Mathematics,92021
+ALASKA,Transportation and Moving,54049
+ARIZONA,Arts and Media,56246
+ARIZONA,Business and Financial,70158
+ARIZONA,Construction,56131
+ARIZONA,Education,52414
+ARIZONA,Engineering,84008
+ARIZONA,Farming and Forestry,37923
+ARIZONA,Food Service,35602
+ARIZONA,Healthcare Practitioners,70435
+ARIZONA,Healthcare Support,41634
+ARIZONA,Installation and Repair,53898
+ARIZONA,Legal Occupations,117818
+ARIZONA,Maintenance and Cleaning,36263
+ARIZONA,Management,103705
+ARIZONA,Office and Administrative,44125
+ARIZONA,Personal Care and Service,35789
+ARIZONA,Production Occupations,44697
+ARIZONA,Protective Services,43030
+ARIZONA,Sales,56533
+ARIZONA,Scientific Research,74189
+ARIZONA,Social Services,53177
+ARIZONA,Technology and Mathematics,84249
+ARIZONA,Transportation and Moving,42699
+ARKANSAS,Arts and Media,42781
+ARKANSAS,Business and Financial,58895
+ARKANSAS,Construction,48203
+ARKANSAS,Education,44555
+ARKANSAS,Engineering,72046
+ARKANSAS,Farming and Forestry,35700
+ARKANSAS,Food Service,29066
+ARKANSAS,Healthcare Practitioners,60899
+ARKANSAS,Healthcare Support,32530
+ARKANSAS,Installation and Repair,47766
+ARKANSAS,Legal Occupations,92838
+ARKANSAS,Maintenance and Cleaning,31819
+ARKANSAS,Management,79854
+ARKANSAS,Office and Administrative,37652
+ARKANSAS,Personal Care and Service,29597
+ARKANSAS,Production Occupations,41157
+ARKANSAS,Protective Services,35247
+ARKANSAS,Sales,48515
+ARKANSAS,Scientific Research,64684
+ARKANSAS,Social Services,45705
+ARKANSAS,Technology and Mathematics,68242
+ARKANSAS,Transportation and Moving,38141
+CALIFORNIA,Arts and Media,72404
+CALIFORNIA,Business and Financial,81923
+CALIFORNIA,Construction,67398
+CALIFORNIA,Education,65605
+CALIFORNIA,Engineering,102756
+CALIFORNIA,Farming and Forestry,44113
+CALIFORNIA,Food Service,42025
+CALIFORNIA,Healthcare Practitioners,82760
+CALIFORNIA,Healthcare Support,45048
+CALIFORNIA,Installation and Repair,62221
+CALIFORNIA,Legal Occupations,154438
+CALIFORNIA,Maintenance and Cleaning,41138
+CALIFORNIA,Management,126619
+CALIFORNIA,Office and Administrative,50510
+CALIFORNIA,Personal Care and Service,43172
+CALIFORNIA,Production Occupations,53105
+CALIFORNIA,Protective Services,52852
+CALIFORNIA,Sales,68208
+CALIFORNIA,Scientific Research,86413
+CALIFORNIA,Social Services,65792
+CALIFORNIA,Technology and Mathematics,98734
+CALIFORNIA,Transportation and Moving,47871
+COLORADO,Arts and Media,64998
+COLORADO,Business and Financial,75879
+COLORADO,Construction,61762
+COLORADO,Education,54631
+COLORADO,Engineering,93624
+COLORADO,Farming and Forestry,44149
+COLORADO,Food Service,42272
+COLORADO,Healthcare Practitioners,76778
+COLORADO,Healthcare Support,43670
+COLORADO,Installation and Repair,59784
+COLORADO,Legal Occupations,133826
+COLORADO,Maintenance and Cleaning,39922
+COLORADO,Management,128632
+COLORADO,Office and Administrative,47633
+COLORADO,Personal Care and Service,42117
+COLORADO,Production Occupations,51257
+COLORADO,Protective Services,49615
+COLORADO,Sales,66236
+COLORADO,Scientific Research,87070
+COLORADO,Social Services,55902
+COLORADO,Technology and Mathematics,96304
+COLORADO,Transportation and Moving,47309
+CONNECTICUT,Arts and Media,68195
+CONNECTICUT,Business and Financial,76040
+CONNECTICUT,Construction,66245
+CONNECTICUT,Education,56862
+CONNECTICUT,Engineering,94098
+CONNECTICUT,Farming and Forestry,41341
+CONNECTICUT,Food Service,38408
+CONNECTICUT,Healthcare Practitioners,82264
+CONNECTICUT,Healthcare Support,42658
+CONNECTICUT,Installation and Repair,59544
+CONNECTICUT,Legal Occupations,153724
+CONNECTICUT,Maintenance and Cleaning,40175
+CONNECTICUT,Management,120057
+CONNECTICUT,Office and Administrative,49297
+CONNECTICUT,Personal Care and Service,40881
+CONNECTICUT,Production Occupations,52916
+CONNECTICUT,Protective Services,43291
+CONNECTICUT,Sales,59801
+CONNECTICUT,Scientific Research,86486
+CONNECTICUT,Social Services,57334
+CONNECTICUT,Technology and Mathematics,93549
+CONNECTICUT,Transportation and Moving,46359
+DELAWARE,Arts and Media,60273
+DELAWARE,Business and Financial,75930
+DELAWARE,Construction,57940
+DELAWARE,Education,50245
+DELAWARE,Engineering,90329
+DELAWARE,Farming and Forestry,34674
+DELAWARE,Food Service,32823
+DELAWARE,Healthcare Practitioners,78522
+DELAWARE,Healthcare Support,39767
+DELAWARE,Installation and Repair,58904
+DELAWARE,Legal Occupations,132581
+DELAWARE,Maintenance and Cleaning,36557
+DELAWARE,Management,131435
+DELAWARE,Office and Administrative,44188
+DELAWARE,Personal Care and Service,33148
+DELAWARE,Production Occupations,46421
+DELAWARE,Protective Services,42607
+DELAWARE,Sales,58823
+DELAWARE,Scientific Research,79584
+DELAWARE,Social Services,54079
+DELAWARE,Technology and Mathematics,92495
+DELAWARE,Transportation and Moving,43209
+FLORIDA,Arts and Media,55252
+FLORIDA,Business and Financial,70221
+FLORIDA,Construction,49673
+FLORIDA,Education,48216
+FLORIDA,Engineering,82571
+FLORIDA,Farming and Forestry,35222
+FLORIDA,Food Service,34287
+FLORIDA,Healthcare Practitioners,63662
+FLORIDA,Healthcare Support,38654
+FLORIDA,Installation and Repair,49864
+FLORIDA,Legal Occupations,124714
+FLORIDA,Maintenance and Cleaning,34126
+FLORIDA,Management,105571
+FLORIDA,Office and Administrative,41785
+FLORIDA,Personal Care and Service,34040
+FLORIDA,Production Occupations,42568
+FLORIDA,Protective Services,42181
+FLORIDA,Sales,56053
+FLORIDA,Scientific Research,69092
+FLORIDA,Social Services,49191
+FLORIDA,Technology and Mathematics,82238
+FLORIDA,Transportation and Moving,40132
+GEORGIA,Arts and Media,56549
+GEORGIA,Business and Financial,67878
+GEORGIA,Construction,53271
+GEORGIA,Education,51834
+GEORGIA,Engineering,86823
+GEORGIA,Farming and Forestry,38944
+GEORGIA,Food Service,30584
+GEORGIA,Healthcare Practitioners,68444
+GEORGIA,Healthcare Support,34786
+GEORGIA,Installation and Repair,51831
+GEORGIA,Legal Occupations,134046
+GEORGIA,Maintenance and Cleaning,34662
+GEORGIA,Management,109142
+GEORGIA,Office and Administrative,41193
+GEORGIA,Personal Care and Service,33404
+GEORGIA,Production Occupations,42651
+GEORGIA,Protective Services,41383
+GEORGIA,Sales,54859
+GEORGIA,Scientific Research,72249
+GEORGIA,Social Services,50069
+GEORGIA,Technology and Mathematics,88248
+GEORGIA,Transportation and Moving,40641
+HAWAII,Arts and Media,55919
+HAWAII,Business and Financial,70141
+HAWAII,Construction,74999
+HAWAII,Education,52490
+HAWAII,Engineering,90144
+HAWAII,Farming and Forestry,40747
+HAWAII,Food Service,37492
+HAWAII,Healthcare Practitioners,78458
+HAWAII,Healthcare Support,43230
+HAWAII,Installation and Repair,61167
+HAWAII,Legal Occupations,102891
+HAWAII,Maintenance and Cleaning,39551
+HAWAII,Management,109568
+HAWAII,Office and Administrative,46574
+HAWAII,Personal Care and Service,35660
+HAWAII,Production Occupations,53356
+HAWAII,Protective Services,43940
+HAWAII,Sales,52861
+HAWAII,Scientific Research,75576
+HAWAII,Social Services,56360
+HAWAII,Technology and Mathematics,87178
+HAWAII,Transportation and Moving,45876
+IDAHO,Arts and Media,48988
+IDAHO,Business and Financial,63466
+IDAHO,Construction,54696
+IDAHO,Education,46444
+IDAHO,Engineering,82531
+IDAHO,Farming and Forestry,41947
+IDAHO,Food Service,30070
+IDAHO,Healthcare Practitioners,66477
+IDAHO,Healthcare Support,37604
+IDAHO,Installation and Repair,52014
+IDAHO,Legal Occupations,90604
+IDAHO,Maintenance and Cleaning,34117
+IDAHO,Management,83615
+IDAHO,Office and Administrative,39818
+IDAHO,Personal Care and Service,33206
+IDAHO,Production Occupations,44370
+IDAHO,Protective Services,37630
+IDAHO,Sales,49536
+IDAHO,Scientific Research,66922
+IDAHO,Social Services,52255
+IDAHO,Technology and Mathematics,81126
+IDAHO,Transportation and Moving,41826
+ILLINOIS,Arts and Media,59697
+ILLINOIS,Business and Financial,71866
+ILLINOIS,Construction,68382
+ILLINOIS,Education,50539
+ILLINOIS,Engineering,88136
+ILLINOIS,Farming and Forestry,41773
+ILLINOIS,Food Service,35711
+ILLINOIS,Healthcare Practitioners,71741
+ILLINOIS,Healthcare Support,43128
+ILLINOIS,Installation and Repair,55952
+ILLINOIS,Legal Occupations,146780
+ILLINOIS,Maintenance and Cleaning,38650
+ILLINOIS,Management,108292
+ILLINOIS,Office and Administrative,45221
+ILLINOIS,Personal Care and Service,36492
+ILLINOIS,Production Occupations,49328
+ILLINOIS,Protective Services,48431
+ILLINOIS,Sales,59585
+ILLINOIS,Scientific Research,79712
+ILLINOIS,Social Services,51468
+ILLINOIS,Technology and Mathematics,89056
+ILLINOIS,Transportation and Moving,44653
+INDIANA,Arts and Media,49681
+INDIANA,Business and Financial,65886
+INDIANA,Construction,57897
+INDIANA,Education,40388
+INDIANA,Engineering,80610
+INDIANA,Farming and Forestry,40141
+INDIANA,Food Service,29588
+INDIANA,Healthcare Practitioners,62453
+INDIANA,Healthcare Support,38849
+INDIANA,Installation and Repair,54327
+INDIANA,Legal Occupations,113119
+INDIANA,Maintenance and Cleaning,35263
+INDIANA,Management,100465
+INDIANA,Office and Administrative,42095
+INDIANA,Personal Care and Service,32847
+INDIANA,Production Occupations,45219
+INDIANA,Protective Services,41494
+INDIANA,Sales,56350
+INDIANA,Scientific Research,68523
+INDIANA,Social Services,48873
+INDIANA,Technology and Mathematics,76539
+INDIANA,Transportation and Moving,42422
+IOWA,Arts and Media,51072
+IOWA,Business and Financial,66009
+IOWA,Construction,55453
+IOWA,Education,46162
+IOWA,Engineering,78826
+IOWA,Farming and Forestry,40714
+IOWA,Food Service,29300
+IOWA,Healthcare Practitioners,67018
+IOWA,Healthcare Support,42154
+IOWA,Installation and Repair,53061
+IOWA,Legal Occupations,101596
+IOWA,Maintenance and Cleaning,33935
+IOWA,Management,91535
+IOWA,Office and Administrative,41482
+IOWA,Personal Care and Service,31915
+IOWA,Production Occupations,45807
+IOWA,Protective Services,38243
+IOWA,Sales,53318
+IOWA,Scientific Research,68418
+IOWA,Social Services,47502
+IOWA,Technology and Mathematics,81044
+IOWA,Transportation and Moving,43250
+KANSAS,Arts and Media,51289
+KANSAS,Business and Financial,66434
+KANSAS,Construction,54618
+KANSAS,Education,48317
+KANSAS,Engineering,86434
+KANSAS,Farming and Forestry,38686
+KANSAS,Food Service,28390
+KANSAS,Healthcare Practitioners,67198
+KANSAS,Healthcare Support,36088
+KANSAS,Installation and Repair,53085
+KANSAS,Legal Occupations,109960
+KANSAS,Maintenance and Cleaning,34468
+KANSAS,Management,104009
+KANSAS,Office and Administrative,40810
+KANSAS,Personal Care and Service,30752
+KANSAS,Production Occupations,45326
+KANSAS,Protective Services,38928
+KANSAS,Sales,58089
+KANSAS,Scientific Research,72827
+KANSAS,Social Services,49405
+KANSAS,Technology and Mathematics,83201
+KANSAS,Transportation and Moving,41826
+KENTUCKY,Arts and Media,49849
+KENTUCKY,Business and Financial,63916
+KENTUCKY,Construction,53808
+KENTUCKY,Education,43530
+KENTUCKY,Engineering,78721
+KENTUCKY,Farming and Forestry,35735
+KENTUCKY,Food Service,28796
+KENTUCKY,Healthcare Practitioners,66016
+KENTUCKY,Healthcare Support,36687
+KENTUCKY,Installation and Repair,50993
+KENTUCKY,Legal Occupations,105562
+KENTUCKY,Maintenance and Cleaning,34030
+KENTUCKY,Management,91575
+KENTUCKY,Office and Administrative,39997
+KENTUCKY,Personal Care and Service,31220
+KENTUCKY,Production Occupations,43899
+KENTUCKY,Protective Services,38193
+KENTUCKY,Sales,54006
+KENTUCKY,Scientific Research,66212
+KENTUCKY,Social Services,47075
+KENTUCKY,Technology and Mathematics,75007
+KENTUCKY,Transportation and Moving,41419
+LOUISIANA,Arts and Media,49323
+LOUISIANA,Business and Financial,64161
+LOUISIANA,Construction,50645
+LOUISIANA,Education,45783
+LOUISIANA,Engineering,84120
+LOUISIANA,Farming and Forestry,37948
+LOUISIANA,Food Service,28134
+LOUISIANA,Healthcare Practitioners,64286
+LOUISIANA,Healthcare Support,30214
+LOUISIANA,Installation and Repair,49477
+LOUISIANA,Legal Occupations,87820
+LOUISIANA,Maintenance and Cleaning,31286
+LOUISIANA,Management,100098
+LOUISIANA,Office and Administrative,37787
+LOUISIANA,Personal Care and Service,29598
+LOUISIANA,Production Occupations,47792
+LOUISIANA,Protective Services,36670
+LOUISIANA,Sales,47876
+LOUISIANA,Scientific Research,73208
+LOUISIANA,Social Services,45767
+LOUISIANA,Technology and Mathematics,77188
+LOUISIANA,Transportation and Moving,37864
+MAINE,Arts and Media,54653
+MAINE,Business and Financial,71551
+MAINE,Construction,51866
+MAINE,Education,61434
+MAINE,Engineering,78518
+MAINE,Farming and Forestry,41558
+MAINE,Food Service,36490
+MAINE,Healthcare Practitioners,74562
+MAINE,Healthcare Support,40778
+MAINE,Installation and Repair,55240
+MAINE,Legal Occupations,121166
+MAINE,Maintenance and Cleaning,38590
+MAINE,Management,97177
+MAINE,Office and Administrative,44260
+MAINE,Personal Care and Service,37164
+MAINE,Production Occupations,46423
+MAINE,Protective Services,41721
+MAINE,Sales,54957
+MAINE,Scientific Research,72730
+MAINE,Social Services,52783
+MAINE,Technology and Mathematics,81894
+MAINE,Transportation and Moving,43293
+MARYLAND,Arts and Media,62312
+MARYLAND,Business and Financial,75718
+MARYLAND,Construction,59761
+MARYLAND,Education,59493
+MARYLAND,Engineering,93313
+MARYLAND,Farming and Forestry,41656
+MARYLAND,Food Service,35888
+MARYLAND,Healthcare Practitioners,77969
+MARYLAND,Healthcare Support,41453
+MARYLAND,Installation and Repair,57771
+MARYLAND,Legal Occupations,159502
+MARYLAND,Maintenance and Cleaning,36737
+MARYLAND,Management,108542
+MARYLAND,Office and Administrative,46881
+MARYLAND,Personal Care and Service,37129
+MARYLAND,Production Occupations,50199
+MARYLAND,Protective Services,45515
+MARYLAND,Sales,60192
+MARYLAND,Scientific Research,85463
+MARYLAND,Social Services,55410
+MARYLAND,Technology and Mathematics,96839
+MARYLAND,Transportation and Moving,45059
+MASSACHUSETTS,Arts and Media,70549
+MASSACHUSETTS,Business and Financial,79188
+MASSACHUSETTS,Construction,70544
+MASSACHUSETTS,Education,72407
+MASSACHUSETTS,Engineering,95211
+MASSACHUSETTS,Farming and Forestry,44026
+MASSACHUSETTS,Food Service,38816
+MASSACHUSETTS,Healthcare Practitioners,84882
+MASSACHUSETTS,Healthcare Support,45486
+MASSACHUSETTS,Installation and Repair,62074
+MASSACHUSETTS,Legal Occupations,154936
+MASSACHUSETTS,Maintenance and Cleaning,42850
+MASSACHUSETTS,Management,121970
+MASSACHUSETTS,Office and Administrative,50177
+MASSACHUSETTS,Personal Care and Service,41793
+MASSACHUSETTS,Production Occupations,50399
+MASSACHUSETTS,Protective Services,47446
+MASSACHUSETTS,Sales,67967
+MASSACHUSETTS,Scientific Research,92576
+MASSACHUSETTS,Social Services,62965
+MASSACHUSETTS,Technology and Mathematics,104517
+MASSACHUSETTS,Transportation and Moving,46728
+MICHIGAN,Arts and Media,53144
+MICHIGAN,Business and Financial,67825
+MICHIGAN,Construction,58512
+MICHIGAN,Education,59721
+MICHIGAN,Engineering,84249
+MICHIGAN,Farming and Forestry,41321
+MICHIGAN,Food Service,32722
+MICHIGAN,Healthcare Practitioners,71604
+MICHIGAN,Healthcare Support,38169
+MICHIGAN,Installation and Repair,53334
+MICHIGAN,Legal Occupations,116138
+MICHIGAN,Maintenance and Cleaning,36336
+MICHIGAN,Management,102957
+MICHIGAN,Office and Administrative,43355
+MICHIGAN,Personal Care and Service,33229
+MICHIGAN,Production Occupations,45288
+MICHIGAN,Protective Services,43665
+MICHIGAN,Sales,58829
+MICHIGAN,Scientific Research,72631
+MICHIGAN,Social Services,50991
+MICHIGAN,Technology and Mathematics,81424
+MICHIGAN,Transportation and Moving,42642
+MINNESOTA,Arts and Media,61167
+MINNESOTA,Business and Financial,74654
+MINNESOTA,Construction,65321
+MINNESOTA,Education,50092
+MINNESOTA,Engineering,87009
+MINNESOTA,Farming and Forestry,47033
+MINNESOTA,Food Service,34695
+MINNESOTA,Healthcare Practitioners,74133
+MINNESOTA,Healthcare Support,41272
+MINNESOTA,Installation and Repair,57917
+MINNESOTA,Legal Occupations,138092
+MINNESOTA,Maintenance and Cleaning,40289
+MINNESOTA,Management,104946
+MINNESOTA,Office and Administrative,47520
+MINNESOTA,Personal Care and Service,37397
+MINNESOTA,Production Occupations,51213
+MINNESOTA,Protective Services,49156
+MINNESOTA,Sales,61166
+MINNESOTA,Scientific Research,79907
+MINNESOTA,Social Services,56585
+MINNESOTA,Technology and Mathematics,88172
+MINNESOTA,Transportation and Moving,47211
+MISSISSIPPI,Arts and Media,41704
+MISSISSIPPI,Business and Financial,59919
+MISSISSIPPI,Construction,46280
+MISSISSIPPI,Education,44210
+MISSISSIPPI,Engineering,80466
+MISSISSIPPI,Farming and Forestry,37144
+MISSISSIPPI,Food Service,25049
+MISSISSIPPI,Healthcare Practitioners,59210
+MISSISSIPPI,Healthcare Support,32086
+MISSISSIPPI,Installation and Repair,47331
+MISSISSIPPI,Legal Occupations,71216
+MISSISSIPPI,Maintenance and Cleaning,30012
+MISSISSIPPI,Management,86993
+MISSISSIPPI,Office and Administrative,37025
+MISSISSIPPI,Personal Care and Service,28820
+MISSISSIPPI,Production Occupations,41775
+MISSISSIPPI,Protective Services,34132
+MISSISSIPPI,Sales,44087
+MISSISSIPPI,Scientific Research,62291
+MISSISSIPPI,Social Services,45744
+MISSISSIPPI,Technology and Mathematics,72303
+MISSISSIPPI,Transportation and Moving,37144
+MISSOURI,Arts and Media,52268
+MISSOURI,Business and Financial,65872
+MISSOURI,Construction,55327
+MISSOURI,Education,42694
+MISSOURI,Engineering,79787
+MISSOURI,Farming and Forestry,38868
+MISSOURI,Food Service,31308
+MISSOURI,Healthcare Practitioners,65929
+MISSOURI,Healthcare Support,38296
+MISSOURI,Installation and Repair,51544
+MISSOURI,Legal Occupations,113381
+MISSOURI,Maintenance and Cleaning,35320
+MISSOURI,Management,91266
+MISSOURI,Office and Administrative,41568
+MISSOURI,Personal Care and Service,31174
+MISSOURI,Production Occupations,43851
+MISSOURI,Protective Services,42502
+MISSOURI,Sales,53052
+MISSOURI,Scientific Research,71078
+MISSOURI,Social Services,44914
+MISSOURI,Technology and Mathematics,74304
+MISSOURI,Transportation and Moving,42101
+MONTANA,Arts and Media,44407
+MONTANA,Business and Financial,62615
+MONTANA,Construction,59078
+MONTANA,Education,47337
+MONTANA,Engineering,78313
+MONTANA,Farming and Forestry,40425
+MONTANA,Food Service,29465
+MONTANA,Healthcare Practitioners,68543
+MONTANA,Healthcare Support,37650
+MONTANA,Installation and Repair,53809
+MONTANA,Legal Occupations,72589
+MONTANA,Maintenance and Cleaning,36825
+MONTANA,Management,95522
+MONTANA,Office and Administrative,41804
+MONTANA,Personal Care and Service,33228
+MONTANA,Production Occupations,48662
+MONTANA,Protective Services,38556
+MONTANA,Sales,49116
+MONTANA,Scientific Research,65390
+MONTANA,Social Services,45530
+MONTANA,Technology and Mathematics,78490
+MONTANA,Transportation and Moving,43785
+NEBRASKA,Arts and Media,50197
+NEBRASKA,Business and Financial,64546
+NEBRASKA,Construction,52321
+NEBRASKA,Education,45635
+NEBRASKA,Engineering,74625
+NEBRASKA,Farming and Forestry,41715
+NEBRASKA,Food Service,29104
+NEBRASKA,Healthcare Practitioners,67947
+NEBRASKA,Healthcare Support,37648
+NEBRASKA,Installation and Repair,51494
+NEBRASKA,Legal Occupations,94081
+NEBRASKA,Maintenance and Cleaning,33913
+NEBRASKA,Management,91631
+NEBRASKA,Office and Administrative,40917
+NEBRASKA,Personal Care and Service,30641
+NEBRASKA,Production Occupations,43482
+NEBRASKA,Protective Services,41122
+NEBRASKA,Sales,50364
+NEBRASKA,Scientific Research,63029
+NEBRASKA,Social Services,50217
+NEBRASKA,Technology and Mathematics,80164
+NEBRASKA,Transportation and Moving,42686
+NEVADA,Arts and Media,58128
+NEVADA,Business and Financial,68691
+NEVADA,Construction,61838
+NEVADA,Education,49810
+NEVADA,Engineering,81806
+NEVADA,Farming and Forestry,40927
+NEVADA,Food Service,31642
+NEVADA,Healthcare Practitioners,73434
+NEVADA,Healthcare Support,38026
+NEVADA,Installation and Repair,59321
+NEVADA,Legal Occupations,101056
+NEVADA,Maintenance and Cleaning,36563
+NEVADA,Management,96296
+NEVADA,Office and Administrative,42391
+NEVADA,Personal Care and Service,36672
+NEVADA,Production Occupations,45899
+NEVADA,Protective Services,42560
+NEVADA,Sales,51367
+NEVADA,Scientific Research,74052
+NEVADA,Social Services,52930
+NEVADA,Technology and Mathematics,83147
+NEVADA,Transportation and Moving,43512
+NEW HAMPSHIRE,Arts and Media,55974
+NEW HAMPSHIRE,Business and Financial,71236
+NEW HAMPSHIRE,Construction,58331
+NEW HAMPSHIRE,Education,57214
+NEW HAMPSHIRE,Engineering,86440
+NEW HAMPSHIRE,Farming and Forestry,39056
+NEW HAMPSHIRE,Food Service,34449
+NEW HAMPSHIRE,Healthcare Practitioners,73577
+NEW HAMPSHIRE,Healthcare Support,42852
+NEW HAMPSHIRE,Installation and Repair,57008
+NEW HAMPSHIRE,Legal Occupations,108845
+NEW HAMPSHIRE,Maintenance and Cleaning,37162
+NEW HAMPSHIRE,Management,115129
+NEW HAMPSHIRE,Office and Administrative,46093
+NEW HAMPSHIRE,Personal Care and Service,34343
+NEW HAMPSHIRE,Production Occupations,47678
+NEW HAMPSHIRE,Protective Services,45541
+NEW HAMPSHIRE,Sales,62784
+NEW HAMPSHIRE,Scientific Research,78604
+NEW HAMPSHIRE,Social Services,56118
+NEW HAMPSHIRE,Technology and Mathematics,95406
+NEW HAMPSHIRE,Transportation and Moving,43899
+NEW JERSEY,Arts and Media,70948
+NEW JERSEY,Business and Financial,85101
+NEW JERSEY,Construction,69280
+NEW JERSEY,Education,62763
+NEW JERSEY,Engineering,97019
+NEW JERSEY,Farming and Forestry,40144
+NEW JERSEY,Food Service,37580
+NEW JERSEY,Healthcare Practitioners,80679
+NEW JERSEY,Healthcare Support,45668
+NEW JERSEY,Installation and Repair,60566
+NEW JERSEY,Legal Occupations,160103
+NEW JERSEY,Maintenance and Cleaning,39208
+NEW JERSEY,Management,137272
+NEW JERSEY,Office and Administrative,48280
+NEW JERSEY,Personal Care and Service,37663
+NEW JERSEY,Production Occupations,50351
+NEW JERSEY,Protective Services,47610
+NEW JERSEY,Sales,67006
+NEW JERSEY,Scientific Research,85270
+NEW JERSEY,Social Services,60293
+NEW JERSEY,Technology and Mathematics,98560
+NEW JERSEY,Transportation and Moving,45981
+NEW MEXICO,Arts and Media,50892
+NEW MEXICO,Business and Financial,69625
+NEW MEXICO,Construction,49053
+NEW MEXICO,Education,61117
+NEW MEXICO,Engineering,87355
+NEW MEXICO,Farming and Forestry,35886
+NEW MEXICO,Food Service,30779
+NEW MEXICO,Healthcare Practitioners,75090
+NEW MEXICO,Healthcare Support,36277
+NEW MEXICO,Installation and Repair,49533
+NEW MEXICO,Legal Occupations,81245
+NEW MEXICO,Maintenance and Cleaning,34030
+NEW MEXICO,Management,99086
+NEW MEXICO,Office and Administrative,39478
+NEW MEXICO,Personal Care and Service,31981
+NEW MEXICO,Production Occupations,45648
+NEW MEXICO,Protective Services,41124
+NEW MEXICO,Sales,45646
+NEW MEXICO,Scientific Research,78785
+NEW MEXICO,Social Services,50878
+NEW MEXICO,Technology and Mathematics,80079
+NEW MEXICO,Transportation and Moving,39542
+NEW YORK,Arts and Media,72122
+NEW YORK,Business and Financial,82075
+NEW YORK,Construction,68205
+NEW YORK,Education,66836
+NEW YORK,Engineering,92405
+NEW YORK,Farming and Forestry,42605
+NEW YORK,Food Service,41669
+NEW YORK,Healthcare Practitioners,80811
+NEW YORK,Healthcare Support,42961
+NEW YORK,Installation and Repair,60411
+NEW YORK,Legal Occupations,159714
+NEW YORK,Maintenance and Cleaning,41650
+NEW YORK,Management,130599
+NEW YORK,Office and Administrative,48985
+NEW YORK,Personal Care and Service,42740
+NEW YORK,Production Occupations,51370
+NEW YORK,Protective Services,50733
+NEW YORK,Sales,70624
+NEW YORK,Scientific Research,87629
+NEW YORK,Social Services,62179
+NEW YORK,Technology and Mathematics,96668
+NEW YORK,Transportation and Moving,48144
+NORTH CAROLINA,Arts and Media,55188
+NORTH CAROLINA,Business and Financial,68274
+NORTH CAROLINA,Construction,49854
+NORTH CAROLINA,Education,46520
+NORTH CAROLINA,Engineering,83764
+NORTH CAROLINA,Farming and Forestry,40148
+NORTH CAROLINA,Food Service,30577
+NORTH CAROLINA,Healthcare Practitioners,63860
+NORTH CAROLINA,Healthcare Support,37623
+NORTH CAROLINA,Installation and Repair,51736
+NORTH CAROLINA,Legal Occupations,136550
+NORTH CAROLINA,Maintenance and Cleaning,33038
+NORTH CAROLINA,Management,107096
+NORTH CAROLINA,Office and Administrative,41224
+NORTH CAROLINA,Personal Care and Service,32425
+NORTH CAROLINA,Production Occupations,42831
+NORTH CAROLINA,Protective Services,39278
+NORTH CAROLINA,Sales,59018
+NORTH CAROLINA,Scientific Research,76067
+NORTH CAROLINA,Social Services,53637
+NORTH CAROLINA,Technology and Mathematics,86832
+NORTH CAROLINA,Transportation and Moving,39612
+NORTH DAKOTA,Arts and Media,48170
+NORTH DAKOTA,Business and Financial,70621
+NORTH DAKOTA,Construction,61286
+NORTH DAKOTA,Education,45266
+NORTH DAKOTA,Engineering,84543
+NORTH DAKOTA,Farming and Forestry,41821
+NORTH DAKOTA,Food Service,32472
+NORTH DAKOTA,Healthcare Practitioners,67152
+NORTH DAKOTA,Healthcare Support,40871
+NORTH DAKOTA,Installation and Repair,58324
+NORTH DAKOTA,Legal Occupations,75879
+NORTH DAKOTA,Maintenance and Cleaning,38893
+NORTH DAKOTA,Management,97474
+NORTH DAKOTA,Office and Administrative,45076
+NORTH DAKOTA,Personal Care and Service,33948
+NORTH DAKOTA,Production Occupations,52283
+NORTH DAKOTA,Protective Services,41933
+NORTH DAKOTA,Sales,54641
+NORTH DAKOTA,Scientific Research,71825
+NORTH DAKOTA,Social Services,56190
+NORTH DAKOTA,Technology and Mathematics,80102
+NORTH DAKOTA,Transportation and Moving,47540
+OHIO,Arts and Media,53809
+OHIO,Business and Financial,66181
+OHIO,Construction,58099
+OHIO,Education,49977
+OHIO,Engineering,83435
+OHIO,Farming and Forestry,39229
+OHIO,Food Service,30729
+OHIO,Healthcare Practitioners,66634
+OHIO,Healthcare Support,38020
+OHIO,Installation and Repair,52415
+OHIO,Legal Occupations,111210
+OHIO,Maintenance and Cleaning,35291
+OHIO,Management,97264
+OHIO,Office and Administrative,42390
+OHIO,Personal Care and Service,31433
+OHIO,Production Occupations,43953
+OHIO,Protective Services,47640
+OHIO,Sales,56017
+OHIO,Scientific Research,73695
+OHIO,Social Services,53788
+OHIO,Technology and Mathematics,81159
+OHIO,Transportation and Moving,42282
+OKLAHOMA,Arts and Media,49818
+OKLAHOMA,Business and Financial,64183
+OKLAHOMA,Construction,51310
+OKLAHOMA,Education,42225
+OKLAHOMA,Engineering,81519
+OKLAHOMA,Farming and Forestry,36811
+OKLAHOMA,Food Service,26572
+OKLAHOMA,Healthcare Practitioners,65756
+OKLAHOMA,Healthcare Support,33123
+OKLAHOMA,Installation and Repair,50603
+OKLAHOMA,Legal Occupations,85831
+OKLAHOMA,Maintenance and Cleaning,31722
+OKLAHOMA,Management,91954
+OKLAHOMA,Office and Administrative,38878
+OKLAHOMA,Personal Care and Service,29335
+OKLAHOMA,Production Occupations,44426
+OKLAHOMA,Protective Services,38259
+OKLAHOMA,Sales,50259
+OKLAHOMA,Scientific Research,66767
+OKLAHOMA,Social Services,49644
+OKLAHOMA,Technology and Mathematics,79430
+OKLAHOMA,Transportation and Moving,38948
+OREGON,Arts and Media,62741
+OREGON,Business and Financial,69629
+OREGON,Construction,63831
+OREGON,Education,52729
+OREGON,Engineering,86323
+OREGON,Farming and Forestry,44479
+OREGON,Food Service,36376
+OREGON,Healthcare Practitioners,86787
+OREGON,Healthcare Support,45521
+OREGON,Installation and Repair,58169
+OREGON,Legal Occupations,103245
+OREGON,Maintenance and Cleaning,39276
+OREGON,Management,102486
+OREGON,Office and Administrative,46165
+OREGON,Personal Care and Service,40851
+OREGON,Production Occupations,49116
+OREGON,Protective Services,45365
+OREGON,Sales,57260
+OREGON,Scientific Research,75114
+OREGON,Social Services,55439
+OREGON,Technology and Mathematics,93742
+OREGON,Transportation and Moving,45199
+PENNSYLVANIA,Arts and Media,56934
+PENNSYLVANIA,Business and Financial,68265
+PENNSYLVANIA,Construction,58011
+PENNSYLVANIA,Education,50010
+PENNSYLVANIA,Engineering,84539
+PENNSYLVANIA,Farming and Forestry,39218
+PENNSYLVANIA,Food Service,31019
+PENNSYLVANIA,Healthcare Practitioners,65983
+PENNSYLVANIA,Healthcare Support,40515
+PENNSYLVANIA,Installation and Repair,53458
+PENNSYLVANIA,Legal Occupations,112538
+PENNSYLVANIA,Maintenance and Cleaning,35428
+PENNSYLVANIA,Management,105375
+PENNSYLVANIA,Office and Administrative,43610
+PENNSYLVANIA,Personal Care and Service,34492
+PENNSYLVANIA,Production Occupations,46957
+PENNSYLVANIA,Protective Services,40162
+PENNSYLVANIA,Sales,60004
+PENNSYLVANIA,Scientific Research,71603
+PENNSYLVANIA,Social Services,51134
+PENNSYLVANIA,Technology and Mathematics,80281
+PENNSYLVANIA,Transportation and Moving,43970
+RHODE ISLAND,Arts and Media,64651
+RHODE ISLAND,Business and Financial,80088
+RHODE ISLAND,Construction,64011
+RHODE ISLAND,Education,62000
+RHODE ISLAND,Engineering,97343
+RHODE ISLAND,Farming and Forestry,36725
+RHODE ISLAND,Food Service,34938
+RHODE ISLAND,Healthcare Practitioners,81806
+RHODE ISLAND,Healthcare Support,43799
+RHODE ISLAND,Installation and Repair,57808
+RHODE ISLAND,Legal Occupations,132770
+RHODE ISLAND,Maintenance and Cleaning,40059
+RHODE ISLAND,Management,123315
+RHODE ISLAND,Office and Administrative,46707
+RHODE ISLAND,Personal Care and Service,35737
+RHODE ISLAND,Production Occupations,47072
+RHODE ISLAND,Protective Services,47497
+RHODE ISLAND,Sales,60028
+RHODE ISLAND,Scientific Research,84286
+RHODE ISLAND,Social Services,56467
+RHODE ISLAND,Technology and Mathematics,97801
+RHODE ISLAND,Transportation and Moving,43029
+SOUTH CAROLINA,Arts and Media,50720
+SOUTH CAROLINA,Business and Financial,66118
+SOUTH CAROLINA,Construction,50727
+SOUTH CAROLINA,Education,41707
+SOUTH CAROLINA,Engineering,80171
+SOUTH CAROLINA,Farming and Forestry,34478
+SOUTH CAROLINA,Food Service,29877
+SOUTH CAROLINA,Healthcare Practitioners,65916
+SOUTH CAROLINA,Healthcare Support,35424
+SOUTH CAROLINA,Installation and Repair,50614
+SOUTH CAROLINA,Legal Occupations,93627
+SOUTH CAROLINA,Maintenance and Cleaning,32632
+SOUTH CAROLINA,Management,100973
+SOUTH CAROLINA,Office and Administrative,39732
+SOUTH CAROLINA,Personal Care and Service,31204
+SOUTH CAROLINA,Production Occupations,43914
+SOUTH CAROLINA,Protective Services,39088
+SOUTH CAROLINA,Sales,55549
+SOUTH CAROLINA,Scientific Research,71420
+SOUTH CAROLINA,Social Services,46681
+SOUTH CAROLINA,Technology and Mathematics,82902
+SOUTH CAROLINA,Transportation and Moving,39520
+SOUTH DAKOTA,Arts and Media,45992
+SOUTH DAKOTA,Business and Financial,71081
+SOUTH DAKOTA,Construction,52040
+SOUTH DAKOTA,Education,45115
+SOUTH DAKOTA,Engineering,80934
+SOUTH DAKOTA,Farming and Forestry,41948
+SOUTH DAKOTA,Food Service,29828
+SOUTH DAKOTA,Healthcare Practitioners,62298
+SOUTH DAKOTA,Healthcare Support,36605
+SOUTH DAKOTA,Installation and Repair,53889
+SOUTH DAKOTA,Legal Occupations,76814
+SOUTH DAKOTA,Maintenance and Cleaning,34652
+SOUTH DAKOTA,Management,116122
+SOUTH DAKOTA,Office and Administrative,39577
+SOUTH DAKOTA,Personal Care and Service,31855
+SOUTH DAKOTA,Production Occupations,44064
+SOUTH DAKOTA,Protective Services,37849
+SOUTH DAKOTA,Sales,53225
+SOUTH DAKOTA,Scientific Research,60148
+SOUTH DAKOTA,Social Services,48725
+SOUTH DAKOTA,Technology and Mathematics,77537
+SOUTH DAKOTA,Transportation and Moving,39576
+TENNESSEE,Arts and Media,48357
+TENNESSEE,Business and Financial,64676
+TENNESSEE,Construction,50563
+TENNESSEE,Education,46609
+TENNESSEE,Engineering,76507
+TENNESSEE,Farming and Forestry,35871
+TENNESSEE,Food Service,29967
+TENNESSEE,Healthcare Practitioners,64828
+TENNESSEE,Healthcare Support,37208
+TENNESSEE,Installation and Repair,50551
+TENNESSEE,Legal Occupations,98961
+TENNESSEE,Maintenance and Cleaning,33919
+TENNESSEE,Management,100243
+TENNESSEE,Office and Administrative,41043
+TENNESSEE,Personal Care and Service,33168
+TENNESSEE,Production Occupations,42155
+TENNESSEE,Protective Services,40112
+TENNESSEE,Sales,53523
+TENNESSEE,Scientific Research,68418
+TENNESSEE,Social Services,48070
+TENNESSEE,Technology and Mathematics,74746
+TENNESSEE,Transportation and Moving,40166
+TEXAS,Arts and Media,55774
+TEXAS,Business and Financial,68437
+TEXAS,Construction,52650
+TEXAS,Education,50516
+TEXAS,Engineering,88326
+TEXAS,Farming and Forestry,39233
+TEXAS,Food Service,32511
+TEXAS,Healthcare Practitioners,66638
+TEXAS,Healthcare Support,37304
+TEXAS,Installation and Repair,51627
+TEXAS,Legal Occupations,130037
+TEXAS,Maintenance and Cleaning,33326
+TEXAS,Management,102626
+TEXAS,Office and Administrative,41522
+TEXAS,Personal Care and Service,34158
+TEXAS,Production Occupations,43998
+TEXAS,Protective Services,44995
+TEXAS,Sales,56623
+TEXAS,Scientific Research,71944
+TEXAS,Social Services,49930
+TEXAS,Technology and Mathematics,84690
+TEXAS,Transportation and Moving,40312
+UTAH,Arts and Media,52989
+UTAH,Business and Financial,66759
+UTAH,Construction,56989
+UTAH,Education,54378
+UTAH,Engineering,82403
+UTAH,Farming and Forestry,38364
+UTAH,Food Service,31593
+UTAH,Healthcare Practitioners,66037
+UTAH,Healthcare Support,39971
+UTAH,Installation and Repair,56164
+UTAH,Legal Occupations,103750
+UTAH,Maintenance and Cleaning,34556
+UTAH,Management,99809
+UTAH,Office and Administrative,42009
+UTAH,Personal Care and Service,34095
+UTAH,Production Occupations,46947
+UTAH,Protective Services,41832
+UTAH,Sales,53960
+UTAH,Scientific Research,76680
+UTAH,Social Services,53388
+UTAH,Technology and Mathematics,88589
+UTAH,Transportation and Moving,44038
+VERMONT,Arts and Media,55593
+VERMONT,Business and Financial,70814
+VERMONT,Construction,53487
+VERMONT,Education,47980
+VERMONT,Engineering,86992
+VERMONT,Farming and Forestry,44077
+VERMONT,Food Service,36531
+VERMONT,Healthcare Practitioners,70307
+VERMONT,Healthcare Support,44994
+VERMONT,Installation and Repair,55948
+VERMONT,Legal Occupations,87253
+VERMONT,Maintenance and Cleaning,39510
+VERMONT,Management,96705
+VERMONT,Office and Administrative,45625
+VERMONT,Personal Care and Service,38972
+VERMONT,Production Occupations,45462
+VERMONT,Protective Services,41922
+VERMONT,Sales,57329
+VERMONT,Scientific Research,71553
+VERMONT,Social Services,55678
+VERMONT,Technology and Mathematics,85005
+VERMONT,Transportation and Moving,42145
+VIRGINIA,Arts and Media,61299
+VIRGINIA,Business and Financial,72193
+VIRGINIA,Construction,53498
+VIRGINIA,Education,57879
+VIRGINIA,Engineering,87360
+VIRGINIA,Farming and Forestry,39541
+VIRGINIA,Food Service,33781
+VIRGINIA,Healthcare Practitioners,69855
+VIRGINIA,Healthcare Support,38333
+VIRGINIA,Installation and Repair,55520
+VIRGINIA,Legal Occupations,138615
+VIRGINIA,Maintenance and Cleaning,35036
+VIRGINIA,Management,114878
+VIRGINIA,Office and Administrative,43153
+VIRGINIA,Personal Care and Service,35002
+VIRGINIA,Production Occupations,46350
+VIRGINIA,Protective Services,49675
+VIRGINIA,Sales,59880
+VIRGINIA,Scientific Research,78966
+VIRGINIA,Social Services,61477
+VIRGINIA,Technology and Mathematics,89879
+VIRGINIA,Transportation and Moving,42523
+WASHINGTON,Arts and Media,69295
+WASHINGTON,Business and Financial,79384
+WASHINGTON,Construction,73222
+WASHINGTON,Education,62103
+WASHINGTON,Engineering,94110
+WASHINGTON,Farming and Forestry,43560
+WASHINGTON,Food Service,40414
+WASHINGTON,Healthcare Practitioners,84832
+WASHINGTON,Healthcare Support,53888
+WASHINGTON,Installation and Repair,63734
+WASHINGTON,Legal Occupations,132483
+WASHINGTON,Maintenance and Cleaning,41381
+WASHINGTON,Management,130121
+WASHINGTON,Office and Administrative,50614
+WASHINGTON,Personal Care and Service,43933
+WASHINGTON,Production Occupations,53777
+WASHINGTON,Protective Services,49792
+WASHINGTON,Sales,65731
+WASHINGTON,Scientific Research,84097
+WASHINGTON,Social Services,61590
+WASHINGTON,Technology and Mathematics,100943
+WASHINGTON,Transportation and Moving,51885
+WEST VIRGINIA,Arts and Media,42280
+WEST VIRGINIA,Business and Financial,63802
+WEST VIRGINIA,Construction,50213
+WEST VIRGINIA,Education,43539
+WEST VIRGINIA,Engineering,85102
+WEST VIRGINIA,Farming and Forestry,34052
+WEST VIRGINIA,Food Service,28019
+WEST VIRGINIA,Healthcare Practitioners,58364
+WEST VIRGINIA,Healthcare Support,31504
+WEST VIRGINIA,Installation and Repair,46894
+WEST VIRGINIA,Legal Occupations,83395
+WEST VIRGINIA,Maintenance and Cleaning,31343
+WEST VIRGINIA,Management,88297
+WEST VIRGINIA,Office and Administrative,37120
+WEST VIRGINIA,Personal Care and Service,29244
+WEST VIRGINIA,Production Occupations,44490
+WEST VIRGINIA,Protective Services,37732
+WEST VIRGINIA,Sales,42177
+WEST VIRGINIA,Scientific Research,69042
+WEST VIRGINIA,Social Services,44215
+WEST VIRGINIA,Technology and Mathematics,76059
+WEST VIRGINIA,Transportation and Moving,37280
+WISCONSIN,Arts and Media,55611
+WISCONSIN,Business and Financial,67847
+WISCONSIN,Construction,60341
+WISCONSIN,Education,48247
+WISCONSIN,Engineering,81058
+WISCONSIN,Farming and Forestry,39935
+WISCONSIN,Food Service,31398
+WISCONSIN,Healthcare Practitioners,68824
+WISCONSIN,Healthcare Support,38926
+WISCONSIN,Installation and Repair,56101
+WISCONSIN,Legal Occupations,109741
+WISCONSIN,Maintenance and Cleaning,35728
+WISCONSIN,Management,110558
+WISCONSIN,Office and Administrative,43329
+WISCONSIN,Personal Care and Service,33952
+WISCONSIN,Production Occupations,46501
+WISCONSIN,Protective Services,39480
+WISCONSIN,Sales,59349
+WISCONSIN,Scientific Research,73087
+WISCONSIN,Social Services,55112
+WISCONSIN,Technology and Mathematics,78317
+WISCONSIN,Transportation and Moving,43447
+WYOMING,Arts and Media,53142
+WYOMING,Business and Financial,75052
+WYOMING,Construction,58594
+WYOMING,Education,51522
+WYOMING,Engineering,96779
+WYOMING,Farming and Forestry,33982
+WYOMING,Food Service,31373
+WYOMING,Healthcare Practitioners,65679
+WYOMING,Healthcare Support,34694
+WYOMING,Installation and Repair,57788
+WYOMING,Legal Occupations,60809
+WYOMING,Maintenance and Cleaning,34776
+WYOMING,Management,92021
+WYOMING,Office and Administrative,41494
+WYOMING,Personal Care and Service,32558
+WYOMING,Production Occupations,53895
+WYOMING,Protective Services,36754
+WYOMING,Sales,48267
+WYOMING,Scientific Research,81274
+WYOMING,Social Services,51679
+WYOMING,Technology and Mathematics,88882
+WYOMING,Transportation and Moving,45495
