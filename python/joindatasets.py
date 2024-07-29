@@ -14,5 +14,8 @@ merged_df = pd.merge(Cost_of_living_df, Job_Income_df, on='state', how='inner')
 # # Calculate the net income
 merged_df['Net_Income'] = merged_df['avg_income'] - merged_df['Cost of Living']
 
+#Calculate the percentage of residual income 
+merged_df['Percentage_Income_Leftover'] = (merged_df['Net_Income'] / merged_df['avg_income'] * 100).round()
+
 # # Save the merged dataframe to a new CSV file
 merged_df.to_csv('data/Merged_dataset.csv', index=False)

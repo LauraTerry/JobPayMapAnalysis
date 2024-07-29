@@ -1,6 +1,7 @@
 # Job Income By State Analysis
 
-2023 Cost of Living and Job Data Analysis
+2023 Cost of Living and Job Data Analysis:
+
 Affordability Insights for Individuals Across U.S. States
 
 ## Overview
@@ -16,7 +17,7 @@ The project aims to address the rapidly increasing cost of living and highlight 
 2. Create a virtual environment and install the packages listed in the 
 `requirements.txt` file (instructions below).
 3. Open and run "JobPayMap.py" by typing "python JobPayMap.py"
-4. OR Select your job category and view results on Tableau public [here](https://public.tableau.com/app/profile/laura.terry3599/viz/JobAnalysis_17219947461810/Dashboard1?publish=yes)
+4. OR Select your job category and view results on Tableau public [here](https://public.tableau.com/app/profile/laura.terry3599/viz/ResidualIncomeMap/Dashboard1?publish=yes)
 
 ### Virtual Environment Commands
 | Command    | Linux/Mac                          | GitBash/Windows                   |
@@ -48,3 +49,4 @@ Job data sources: https://www.bls.gov/oes/special-requests/oesm23nat.zip
 
 Cost of living data source: https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties
 
+![alt text](Schema-1.jpg)
