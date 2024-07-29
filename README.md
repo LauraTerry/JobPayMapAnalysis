@@ -49,4 +49,4 @@ Job data sources: https://www.bls.gov/oes/special-requests/oesm23nat.zip
 
 Cost of living data source: https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties
 
-![alt text](Schema-1.jpg)
+![alt text](Schema.jpg)
