@@ -19,7 +19,7 @@
     <WindowsPersistSimpleIdentifiers />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='ResidualIncomeMap' path='/workbooks' revision='1.0' />
+  <repository-location id='ResidualIncomeMap' path='/workbooks' revision='1.2' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -161,7 +161,7 @@
       <column caption='Avg Income' datatype='integer' name='[avg_income]' role='measure' type='quantitative' />
       <column caption='State' datatype='string' name='[state]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
       <extract _.fcp.ObjectModelExtractV2.true...object-id='' _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' units='records'>
-        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/PROXY_~1/AppData/Local/Temp/TableauTemp/#TableauTemp_0aj052a1vfdwjh1gh9vw30qmwb6x.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='07/29/2024 01:13:00 PM' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/PROXY_~1/AppData/Local/Temp/TableauTemp/#TableauTemp_0aj052a1vfdwjh1gh9vw30qmwb6x.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
           <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
           <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
           <metadata-records>
@@ -178,7 +178,6 @@
               <approx-count>50</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Merged_dataset.csv_5E73397EFB394631B4D3127E577A1A69]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Cost of Living</remote-name>
@@ -192,7 +191,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>50</approx-count>
               <contains-null>true</contains-null>
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Merged_dataset.csv_5E73397EFB394631B4D3127E577A1A69]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Job Type</remote-name>
@@ -207,7 +205,6 @@
               <approx-count>22</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Merged_dataset.csv_5E73397EFB394631B4D3127E577A1A69]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>avg_income</remote-name>
@@ -221,7 +218,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>1060</approx-count>
               <contains-null>true</contains-null>
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Merged_dataset.csv_5E73397EFB394631B4D3127E577A1A69]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Net_Income</remote-name>
@@ -235,7 +231,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>1096</approx-count>
               <contains-null>true</contains-null>
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Merged_dataset.csv_5E73397EFB394631B4D3127E577A1A69]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Percentage_Income_Leftover</remote-name>
@@ -249,7 +244,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>109</approx-count>
               <contains-null>true</contains-null>
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Merged_dataset.csv_5E73397EFB394631B4D3127E577A1A69]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -417,8 +411,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='15' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98140' id='14' param='vert' type-v2='layout-flow' w='97538' x='1231' y='930'>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98140' id='18' param='vert' type-v2='layout-flow' w='97538' x='1231' y='930'>
                 <zone fixed-size='461' h='54535' id='8' mode='dropdown' name='Sheet 1' param='[federated.0nng6s81j5uq841cdhaaw128tyr3].[none:Job Type:nk]' type-v2='filter' w='32154' x='66615' y='930'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -491,7 +485,7 @@
               </zone>
             </zone>
             <zone fixed-size='209' h='98140' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='32154' x='66615' y='930'>
-              <zone h='54535' id='8' name='Sheet 1' param='[federated.0nng6s81j5uq841cdhaaw128tyr3].[none:Job Type:nk]' type-v2='filter' w='32154' x='66615' y='930'>
+              <zone h='54535' id='8' mode='radiolist' name='Sheet 1' param='[federated.0nng6s81j5uq841cdhaaw128tyr3].[none:Job Type:nk]' type-v2='filter' w='32154' x='66615' y='930'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -513,8 +507,36 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='1' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000' />
+            <zone h='100000' id='13' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98140' id='12' param='vert' type-v2='layout-flow' w='97538' x='1231' y='930'>
+                <zone h='54535' id='8' mode='dropdown' name='Sheet 1' param='[federated.0nng6s81j5uq841cdhaaw128tyr3].[none:Job Type:nk]' type-v2='filter' w='32154' x='66615' y='930'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='89419' id='3' is-fixed='true' name='Sheet 1' w='65384' x='1231' y='930'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='8721' id='9' name='Sheet 1' pane-specification-id='0' param='[federated.0nng6s81j5uq841cdhaaw128tyr3].[sum:Percentage_Income_Leftover:qk]' type-v2='color' w='65384' x='1231' y='90349'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -556,10 +578,13 @@
                   <story-point caption='2023 Cost of Living and Job Data Analysis:&#10;The goal of this project is to help individuals identify which states offer the best financial rewards for their skills and vocations, thereby aiding them in making informed decisions about where to live and work.&#10;&#10;This map reflects the residual income for a single individual, based on average job income for the state, and state&apos;s average cost of living. &#10;Choose a job type, and hover over the states for the breakdown of information.' captured-sheet='Dashboard 2' id='1'>
                     <currentDeltas>
                       <worksheet name='Sheet 1'>
+                        <filter class='categorical' column='[federated.0nng6s81j5uq841cdhaaw128tyr3].[none:Job Type:nk]'>
+                          <groupfilter function='member' level='[none:Job Type:nk]' member='&quot;Legal Occupations&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+                        </filter>
                         <style delta-type='added'>
                           <style-rule element='axis'>
-                            <encoding attr='space' class='0' field='[federated.0nng6s81j5uq841cdhaaw128tyr3].[Latitude (generated)]' field-type='quantitative' max='10623008.611749325' min='-1658844.4178672303' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
-                            <encoding attr='space' class='0' field='[federated.0nng6s81j5uq841cdhaaw128tyr3].[Longitude (generated)]' field-type='quantitative' max='33710322.060234845' min='24586659.871812567' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+                            <encoding attr='space' class='0' field='[federated.0nng6s81j5uq841cdhaaw128tyr3].[Latitude (generated)]' field-type='quantitative' max='9116859.2884159107' min='-1135960.6594971148' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+                            <encoding attr='space' class='0' field='[federated.0nng6s81j5uq841cdhaaw128tyr3].[Longitude (generated)]' field-type='quantitative' max='33287851.435511194' min='25671470.954658281' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
                           </style-rule>
                         </style>
                       </worksheet>
@@ -581,7 +606,7 @@
       <simple-id uuid='{E36DD288-1D1B-4249-A81F-772346A9E22C}' />
     </dashboard>
   </dashboards>
-  <windows pres-mode='true' source-height='30'>
+  <windows source-height='30'>
     <window class='worksheet' name='Sheet 1'>
       <cards>
         <edge name='left'>
@@ -622,7 +647,7 @@
     </window>
     <window class='dashboard' maximized='true' name='Story 2'>
       <viewpoints />
-      <active id='-1' />
+      <active id='5' />
       <simple-id uuid='{1EB5A2D3-F869-466E-AF32-07928842CD19}' />
     </window>
     <window class='dashboard' name='Dashboard 2'>
@@ -631,7 +656,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='6' />
       <simple-id uuid='{5EF5B543-C415-4897-958B-AE12D12C8499}' />
     </window>
   </windows>

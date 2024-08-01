@@ -18,16 +18,6 @@ results.reset_index(drop=True, inplace=True)
 # Save the filtered DataFrame to a new CSV file
 results.to_csv("data/COLdataset1p0c.csv", index=False)
 
-# COLdata= pd.read_csv('data/cost_of_living_us.csv')
-
-# state =  COLdata.groupby(['family_member_count', 'median_family_income'])
-# types= COLdata.state.dtype
-
-# results = COLdata[["state", "family_member_count", "housing_cost", "total_cost", "median_family_income"]]
-
-# results.reset_index(drop = True, inplace = True)
-# results.to_csv("data/COLdataset.csv")
-
 #Descriptions of columns
 ## family = ['1p0c' '1p1c' '1p2c' '1p3c' '1p4c' '2p0c' '2p1c' '2p2c' '2p3c' '2p4c']
 # ##['case_id', 'state', 'isMetro', 'areaname', 'county',

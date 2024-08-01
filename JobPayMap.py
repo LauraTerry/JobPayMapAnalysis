@@ -8,6 +8,7 @@ job_data = pd.read_csv('data/Merged_dataset.csv')
 # # Load the shapefile of US states
 shapefile = gpd.read_file('data/States_shapefile.shp')
 print(shapefile.columns)
+
 # Ensure state names are uppercase in both datasets
 job_data['state'] = job_data['state'].str.upper()
 shapefile['State_Name'] = shapefile['State_Name'].str.upper()
@@ -15,6 +16,8 @@ shapefile['State_Name'] = shapefile['State_Name'].str.upper()
 # Display available vocations to the user
 print("Available vocations:")
 vocations = job_data['Job Type'].unique()
+
+#reindex the vocations in a new numbered list
 for i, vocation in enumerate(vocations, 1):
     print(f"{i}. {vocation}")
 
@@ -40,7 +43,8 @@ fig, ax = plt.subplots(1, 1, figsize=(15, 10))
 merged_data.plot(column='Percentage_Income_Leftover', ax=ax, legend=True,
                  legend_kwds={'label': "Residual Income by State (%)",
                               'orientation': "horizontal"},
-                 cmap='RdYlGn',  # Color map: red-yellow-green
+                 # Color map: red-yellow-green
+                 cmap='RdYlGn', 
                  edgecolor='black')
 
 # Set plot title and remove axis
