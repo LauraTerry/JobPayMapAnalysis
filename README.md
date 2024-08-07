@@ -42,6 +42,30 @@ Calculated the average income for each vocation by state.
 
 4. Visualization: The project offers two visualization options. One uses Matplotlib and GeoPandas in Python to create a choropleth map based on user selections. The other is a Tableau choropleth map illustrating Residual Income by state. Both visualizations employ a red-yellow-green color scale, with green representing the highest residual income.
 
+## Code Louisville Project Requirements Met:
+
+### Loading Data:
+· Read two CSV files (Bureau of Labor Statistics, Kaggle).
+### Cleaning and Merging Data:
+· Used PostgreSQL (pgAdmin4) for a local database.
+
+· Cleaned and prepped data with SQL.
+
+· Merged data and performed calculations using Python (pandas).
+
+· Created a master CSV file for visualizations.
+
+### Visualize Data:
+· Created 22 possible heatmap visuals depending on the user's choice using Matplotlib and Tableau. The user has the option to run the python program from terminal, or view via Tableau online link.
+
+### Best Practices:
+· Annotated code for clarity.
+
+· README includes virtual environment setup instructions, schema of the datasets, and a data dictionary (below).
+
+| State | Cost of Living | Job Type | avg_income | Net_income | Percentage_Income_Leftover |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|  US State   |  Average Cost of Living  |  Job Type | Average Income by Job | Income less the Cost of Living | Percentage of residual income for each job, by state |
 
 ## Data Sources:
 Job data sources: https://www.bls.gov/oes/special-requests/oesm23nat.zip

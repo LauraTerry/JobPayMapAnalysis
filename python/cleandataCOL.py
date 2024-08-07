@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import psycopg2 as pg
 
-
 # Read the CSV file into a DataFrame
 COLdata = pd.read_csv('data/cost_of_living_us.csv')
 

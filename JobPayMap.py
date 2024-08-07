@@ -39,7 +39,7 @@ merged_data = shapefile.merge(filtered_data, left_on='State_Name', right_on='sta
 merged_data = merged_data.to_crs("ESRI:102003")
 
 # # Plot the heatmap
-fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+fig, ax = plt.subplots(1, 1, figsize=(10, 8))
 merged_data.plot(column='Percentage_Income_Leftover', ax=ax, legend=True,
                  legend_kwds={'label': "Residual Income by State (%)",
                               'orientation': "horizontal"},
