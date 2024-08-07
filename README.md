@@ -1,8 +1,7 @@
 # Job Income By State Analysis
 
 2023 Cost of Living and Job Data Analysis:
-
-Affordability Insights for Individuals Across U.S. States
+ Affordability Insights for Individuals Across U.S. States
 
 ## Overview
 This project focuses on the cost of living across U.S. states, emphasizing job data for individuals. It provides insights into affordability by comparing the general income levels of various jobs within each state against the average cost of living.
@@ -44,24 +43,31 @@ Calculated the average income for each vocation by state.
 
 ## Code Louisville Project Requirements Met:
 
-### Loading Data:
-· Read two CSV files (Bureau of Labor Statistics, Kaggle).
-### Cleaning and Merging Data:
-· Used PostgreSQL (pgAdmin4) for a local database.
+1. Loading Data:
 
-· Cleaned and prepped data with SQL.
+    · Read two CSV files (Bureau of Labor Statistics, Kaggle).
 
-· Merged data and performed calculations using Python (pandas).
+2. Cleaning and Merging Data:
 
-· Created a master CSV file for visualizations.
+    · Used PostgreSQL (pgAdmin4) for a local database.
 
-### Visualize Data:
-· Created 22 possible heatmap visuals depending on the user's choice using Matplotlib and Tableau. The user has the option to run the python program from terminal, or view via Tableau online link.
+    · Cleaned and prepped data with SQL.
 
-### Best Practices:
-· Annotated code for clarity.
+    · Merged data and performed calculations using Python (pandas).
 
-· README includes virtual environment setup instructions, schema of the datasets, and a data dictionary (below).
+    · Created a master CSV file for visualizations.
+
+3. Visualize Data:
+
+    · Program creates 22 possible heatmap visuals depending on the user's choice using Matplotlib. I also created a Tableau public link, to more easily view the data. 
+    
+    The user has the option to run the python program from terminal, or view via Tableau online link.
+
+4. Best Practices:
+
+    · Annotated code for clarity.
+
+    · README includes virtual environment setup instructions, schema of the datasets, and a data dictionary (below).
 
 | State | Cost of Living | Job Type | avg_income | Net_income | Percentage_Income_Leftover |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
