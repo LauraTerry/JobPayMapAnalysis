@@ -67,6 +67,8 @@ Calculated the average income for each vocation by state.
 
     · Annotated code for clarity.
 
+    · Created a virtual environment
+
     · README includes virtual environment setup instructions, schema of the datasets, and a data dictionary (below).
 
 | State | Cost of Living | Job Type | avg_income | Net_income | Percentage_Income_Leftover |

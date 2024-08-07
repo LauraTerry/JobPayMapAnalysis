@@ -7,7 +7,7 @@ Jobdf = pd.read_csv("data/oes_research_2023_allsectors.csv")
 columns_to_keep = ['AREA_TITLE', 'OCC_CODE', 'A_MEDIAN']
 Jobdf_filtered = Jobdf[columns_to_keep]
 
-# Filter by job
+# Filter by major job types
 codes_to_keep = ('11-0000', '13-0000', '15-0000', '17-0000', '19-0000', '21-0000', '23-0000', '25-0000', '27-0000', '29-0000', 
                  '31-0000', '33-0000', '35-0000', '37-0000', '39-0000', '41-0000', '43-0000', '45-0000', '47-0000', '49-0000', 
                  '51-0000', '53-0000')
@@ -19,7 +19,7 @@ filtered_df = Jobdf_filtered[Jobdf_filtered['OCC_CODE'].isin(codes_to_keep)]
 replacement_null = {'*': '#'}
 filtered_df['A_MEDIAN'].replace(replacement_null, inplace=True)
 
-# Remove commas from 'A_MEDIAN'
+# Remove commas from 'A_MEDIAN' for posgreSQL
 filtered_df['A_MEDIAN'] = filtered_df['A_MEDIAN'].str.replace(',', '', regex=False)
 
 # Rename columns in filtered DataFrame
@@ -28,7 +28,7 @@ filtered_df = filtered_df.rename(columns={'AREA_TITLE': 'State', 'OCC_CODE': 'Jo
 # Normalize state names by stripping extra spaces and converting to uppercase
 filtered_df['State'] = filtered_df['State'].str.strip().str.upper()
 
-# Drop entries for Puerto Rico and Guam
+# Drop entries for US Territories
 exclude_states = ['PUERTO RICO', 'GUAM', 'VIRGIN ISLANDS', 'DISTRICT OF COLUMBIA']
 filtered_df = filtered_df[~filtered_df['State'].isin(exclude_states)]
 
