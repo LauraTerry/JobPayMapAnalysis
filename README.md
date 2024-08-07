@@ -68,7 +68,7 @@ Calculated the average income for each vocation by state.
 |  US State   |  Average Cost of Living  |  Job Type | Average Income by Job | Income less the Cost of Living | Percentage of residual income for each job, by state |
 
 ## Data Sources:
-Job data sources: https://www.bls.gov/oes/special-requests/oesm23nat.zip
+Job data sources: https://www.bls.gov/oes/data.htm
 
 Cost of living data source: https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties
 
