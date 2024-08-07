@@ -16,7 +16,8 @@ The project aims to address the rapidly increasing cost of living and highlight 
 2. Create a virtual environment and install the packages listed in the 
 `requirements.txt` file (instructions below).
 3. Open and run "JobPayMap.py" by typing "python JobPayMap.py"
-4. OR Select your job category and view results on Tableau public [here](https://public.tableau.com/app/profile/laura.terry3599/viz/ResidualIncomeMap/Story2?publish=yes)
+
+   OR Select your job category and view results on Tableau public [here](https://public.tableau.com/app/profile/laura.terry3599/viz/ResidualIncomeMap/Story2?publish=yes)
 
 ### Virtual Environment Commands
 | Command    | Linux/Mac                          | GitBash/Windows                   |
